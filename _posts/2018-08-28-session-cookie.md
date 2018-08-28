@@ -1,7 +1,7 @@
 ---
 layout: post
 published: Phân biệt Session và Cookie
-title: ''
+title: 'Gì v'
 ---
 ## Phân biệt Cookies và Sessions
 
