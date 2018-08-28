@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: Phân biệt Session và Cookie
 title: ''
 ---
 ## Phân biệt Cookies và Sessions
