@@ -1,7 +1,7 @@
 ---
 layout: post
 published: Phân biệt Session và Cookie
-title: 'Gì v'
+title: 'The difference between Session and Cookie'
 ---
 ## Phân biệt Cookies và Sessions
 
