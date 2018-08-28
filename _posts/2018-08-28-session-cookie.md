@@ -3,7 +3,6 @@ layout: post
 published: Phân biệt Session và Cookie
 title: 'The difference between Session and Cookie'
 ---
-## Phân biệt Cookies và Sessions
 
 Vì giao thức HTTP là giao thức "_stateless_", nghĩa là server không lưu lại bất kì thông tin gì từ client request trước đó. Tuy nhiên, Website thông thường có nhu cầu nhận diện người dùng. HTTP sử dụng **_Cookies_**, cho phép sites theo vết user. 
 
