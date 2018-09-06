@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is cache?
+published: true
 ---
 
 Cache là bộ nhớ đệm - là bộ nhớ có tốc độ truy xuất nhanh, lưu trữ dữ liệu thường xuyên được sử dụng, nhằm giảm độ trễ trong việc truy xuất dữ liệu từ các thiết bị nhớ có tốc độ truy xuất chập hơn. 
@@ -21,4 +22,4 @@ _Tham khảo_ tham khảo bài viết **Giải ngố về bộ nhớ đệm trê
 	2. Temporal locality: nếu một địa chỉ được truy cập, thì địa chỉ đó khả năng sẽ được gọi truy cập lại sau đó. 
 
 **Một số giải thuật thay thế trang**
-LRU - thay thế trang ít được sử dụng nhất. 
+LRU - thay thế trang ít được sử dụng nhất.
