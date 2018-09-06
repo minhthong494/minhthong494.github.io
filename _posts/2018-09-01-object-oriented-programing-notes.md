@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-title: Object Oriented Programing Notes
+title: 'Object Oriented Programing Notes'
 ---
+
 ### Some remarkable points in OOP
 1. **Chương 1.**
 2. **Chương 2.**
