@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: True
 title: 'Object Oriented Programing Notes'
 ---
 
