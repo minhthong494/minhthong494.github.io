@@ -31,3 +31,4 @@ For instance, Unique ID được gửi kèm trong HTTP header.
 
 **Source**
 - [https://www.thoughtco.com/the-difference-between-cookies-and-sessions-2693956](https://www.thoughtco.com/the-difference-between-cookies-and-sessions-2693956)
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#The_Set-Cookie_and_Cookie_headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#The_Set-Cookie_and_Cookie_headers)
